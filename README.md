@@ -1,5 +1,5 @@
-# synent-task-task-1---Exploratory-Data-Analysis----Yug_Pathak-
-#  Synent Task 1 – Exploratory Data Analysis (EDA)
+# synent-task-task-2---Exploratory-Data-Analysis----Yug_Pathak>
+#  Synent Task 2 – Exploratory Data Analysis (EDA)
 
 ## Problem Statement
 
